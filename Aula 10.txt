@@ -1,0 +1,12 @@
+Aula sobre árvore binária da Universidade de Stanford.
+
+http://cslibrary.stanford.edu/110/BinaryTrees.html#java
+
+O código em java possui tudo o que vimos sobre árvore binária de busca, apenas um detalhe que os métodos utilizados no link acima trabalham mais focados em recursão.
+Vale lembrar que toda recursão é possível encontrar sua equivalente iterativa, por exemplo, ao procurar por um elemento em uma árvore binária de busca podemos
+optar por descer pelos seus nós através de um while(nodo != null) { verifica se é igual ao que procura; se é maior ou menor e etc... }
+
+
+[Informais]
+https://precisoestudarsempre.blogspot.com.br/2015/01/arvore-binaria-implementacao-em-java.html
+https://pt.wikipedia.org/wiki/%C3%81rvore_bin%C3%A1ria
